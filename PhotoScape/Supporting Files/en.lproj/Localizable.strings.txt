@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  PhotoScape
+
+  Created by Twiscode on 16/11/18.
+  Copyright © 2018 Twiscode. All rights reserved.
+*/
+
+// MARK: - Login Screen
+"login.title" = "Login";
+"login.placeholder.email" = "Email";
+"login.placeholder.password" = "Password";
+"login.button.login" = "Login";
+"login.button.register" = "Register";
+"login.alert.login_failed.title" = "Login Failed";
+"login.alert.login_failed.message" = "Wrong email or password";
+"login.alert.form_invalid.title" = "Invalid form";
+"login.alert.form_invalid.message.email_empty" = "Email cannot be empty";
+"login.alert.form_invalid.message.email_invalid" = "Invalid email";
+"login.alert.form_invalid.message.password_empty" = "Password cannot be empty";
+
+// MARK: - Register Screen
+"register.title" = "Register";
+"register.placeholder.fullname" = "Full Name";
+"register.placeholder.username" = "Username";
+"register.placeholder.email" = "Email";
+"register.placeholder.password" = "Password";
+"register.button.register" = "Register";
+"register.alert.register_failed.title" = "Register Failed";
+"register.alert.register_failed.message" = "There is soemthing wrong with the registration";
+"register.alert.form_invalid.title" = "Invalid form";
+"register.alert.form_invalid.message.fullname_empty" = "Full name cannot be empty";
+"register.alert.form_invalid.message.username_empty" = "Username cannot be empty";
+"register.alert.form_invalid.message.email_empty" = "Email cannot be empty";
+"register.alert.form_invalid.message.email_invalid" = "Invalid email";
+"register.alert.form_invalid.message.password_empty" = "Password cannot be empty";
+"register.alert.form_invalid.message.password_length" = "Please type at least 6 characters";

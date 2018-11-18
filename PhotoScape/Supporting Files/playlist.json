@@ -1,0 +1,116 @@
+{
+    "albums": [
+        {
+            "id": 1,
+            "image": "https://i.pinimg.com/originals/ea/ac/da/eaacdae936e51911fc8c6b6e8ec06a0f.jpg",
+            "name": "Album 1",
+            "detail": "Detail Album 1"
+        },
+        {
+            "id": 2,
+            "image": "https://i.pinimg.com/originals/ea/ac/da/eaacdae936e51911fc8c6b6e8ec06a0f.jpg",
+            "name": "Album 2",
+            "detail": "Detail Album 2"
+        },
+        {
+            "id": 3,
+            "image": "https://i.pinimg.com/originals/ea/ac/da/eaacdae936e51911fc8c6b6e8ec06a0f.jpg",
+            "name": "Album 3",
+            "detail": "Detail Album 3"
+        },
+        {
+            "id": 4,
+            "image": "https://i.pinimg.com/originals/ea/ac/da/eaacdae936e51911fc8c6b6e8ec06a0f.jpg",
+            "name": "Album 4",
+            "detail": "Detail Album 4"
+        },
+        {
+            "id": 5,
+            "image": "https://i.pinimg.com/originals/ea/ac/da/eaacdae936e51911fc8c6b6e8ec06a0f.jpg",
+            "name": "Album 5",
+            "detail": "Detail Album 5"
+        },
+        {
+            "id": 6,
+            "image": "https://i.pinimg.com/originals/ea/ac/da/eaacdae936e51911fc8c6b6e8ec06a0f.jpg",
+            "name": "Album 6",
+            "detail": "Detail Album 6"
+        },
+        {
+            "id": 7,
+            "image": "https://i.pinimg.com/originals/ea/ac/da/eaacdae936e51911fc8c6b6e8ec06a0f.jpg",
+            "name": "Album 7",
+            "detail": "Detail Album 7"
+        },
+        {
+            "id": 8,
+            "image": "https://i.pinimg.com/originals/ea/ac/da/eaacdae936e51911fc8c6b6e8ec06a0f.jpg",
+            "name": "Album 8",
+            "detail": "Detail Album 8"
+        },
+        {
+            "id": 9,
+            "image": "https://i.pinimg.com/originals/ea/ac/da/eaacdae936e51911fc8c6b6e8ec06a0f.jpg",
+            "name": "Album 9",
+            "detail": "Detail Album 9"
+        },
+        {
+            "id": 10,
+            "image": "https://i.pinimg.com/originals/ea/ac/da/eaacdae936e51911fc8c6b6e8ec06a0f.jpg",
+            "name": "Album 10",
+            "detail": "Detail Album 10"
+        }
+    ],
+    "artists": [
+        {
+            "id": 1,
+            "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/18/17/screen-shot-2018-06-18-at-17.13.32.png?w968h681",
+            "name": "Artist 1"
+        },
+        {
+            "id": 2,
+            "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/18/17/screen-shot-2018-06-18-at-17.13.32.png?w968h681",
+            "name": "Artist 2"
+        },
+        {
+            "id": 3,
+            "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/18/17/screen-shot-2018-06-18-at-17.13.32.png?w968h681",
+            "name": "Artist 3"
+        },
+        {
+            "id": 4,
+            "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/18/17/screen-shot-2018-06-18-at-17.13.32.png?w968h681",
+            "name": "Artist 4"
+        },
+        {
+            "id": 5,
+            "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/18/17/screen-shot-2018-06-18-at-17.13.32.png?w968h681",
+            "name": "Artist 5"
+        },
+        {
+            "id": 6,
+            "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/18/17/screen-shot-2018-06-18-at-17.13.32.png?w968h681",
+            "name": "Artist 6"
+        },
+        {
+            "id": 7,
+            "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/18/17/screen-shot-2018-06-18-at-17.13.32.png?w968h681",
+            "name": "Artist 7"
+        },
+        {
+            "id": 8,
+            "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/18/17/screen-shot-2018-06-18-at-17.13.32.png?w968h681",
+            "name": "Artist 8"
+        },
+        {
+            "id": 9,
+            "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/18/17/screen-shot-2018-06-18-at-17.13.32.png?w968h681",
+            "name": "Artist 9"
+        },
+        {
+            "id": 10,
+            "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/06/18/17/screen-shot-2018-06-18-at-17.13.32.png?w968h681",
+            "name": "Artist 10"
+        }
+    ]
+}
